@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="232" viewBox="0 0 800 232" role="img" aria-labelledby="title description">
 <title id="title">Estatísticas públicas de Barretomen</title>
-<desc id="description">16 repositórios públicos, 0 estrelas em repositórios próprios e 1 seguidores. Atualizado em 2026-11-09. Dados da API do GitHub.</desc>
+<desc id="description">16 repositórios públicos, 0 estrelas em repositórios próprios e 1 seguidores. Atualizado em 2026-11-10. Dados da API do GitHub.</desc>
 <style>text{font-family:Arial,Helvetica,sans-serif}.number{font-size:34px;font-weight:600;fill:#efefef}.label{font-size:14px;fill:#bbb}</style>
 <rect x=".5" y=".5" width="799" height="231" rx="8" fill="#202020" stroke="#444"/>
 <text x="30" y="34" class="label">ATIVIDADE PÚBLICA NO GITHUB</text>
 <text x="30" y="98" class="number">16</text><text x="30" y="124" class="label">Repositórios públicos</text><text x="290" y="98" class="number">0</text><text x="290" y="124" class="label">Estrelas recebidas</text><text x="550" y="98" class="number">1</text><text x="550" y="124" class="label">Seguidores</text>
 <path d="M30 148H770" stroke="#444"/>
 <text x="30" y="174" class="label">Linguagem principal por repositório: HTML: 8 · TypeScript: 2 · CSS: 2 · JavaScript: 2 · Python: 1</text>
-<text x="30" y="208" font-size="12" fill="#999">Fonte: GitHub API · Atualizado em 2026-11-09 UTC · Repositórios privados não incluídos</text>
+<text x="30" y="208" font-size="12" fill="#999">Fonte: GitHub API · Atualizado em 2026-11-10 UTC · Repositórios privados não incluídos</text>
 </svg>
