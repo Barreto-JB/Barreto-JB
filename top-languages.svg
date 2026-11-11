@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="330" viewBox="0 0 420 330" role="img" aria-labelledby="title description">
+<title id="title">Most used languages</title>
+<desc id="description">Language shares by GitHub Linguist code size. JavaScript: 1704844 bytes, HTML: 1062321 bytes, TypeScript: 463364 bytes, CSS: 379474 bytes, Python: 136669 bytes, PLpgSQL: 73858 bytes, Shell: 17989 bytes</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#F0F6FC}.heading{font-size:19px;font-weight:600;fill:#17D6C5}.label{font-size:13px;fill:#8B949E}.value{font-size:32px;font-weight:600}.foot{font-size:10px;fill:#8B949E}</style>
+<rect x=".5" y=".5" width="419" height="329" rx="10" fill="#0D1117" stroke="#30363D"/>
+<text x="26" y="37" class="heading">Most used languages</text>
+<path d="M26 56H394" stroke="#30363D"/>
+<text x="26" y="83" font-size="12">JavaScript</text><text x="394" y="83" text-anchor="end" class="label">44.4%</text><rect x="26" y="91" width="368" height="5" rx="2.5" fill="#21262D"/><rect x="26" y="91" width="163.44" height="5" rx="2.5" fill="#17D6C5"/>
+<text x="26" y="116" font-size="12">HTML</text><text x="394" y="116" text-anchor="end" class="label">27.7%</text><rect x="26" y="124" width="368" height="5" rx="2.5" fill="#21262D"/><rect x="26" y="124" width="101.85" height="5" rx="2.5" fill="#56C7F3"/>
+<text x="26" y="149" font-size="12">TypeScript</text><text x="394" y="149" text-anchor="end" class="label">12.1%</text><rect x="26" y="157" width="368" height="5" rx="2.5" fill="#21262D"/><rect x="26" y="157" width="44.42" height="5" rx="2.5" fill="#F7B42C"/>
+<text x="26" y="182" font-size="12">CSS</text><text x="394" y="182" text-anchor="end" class="label">9.9%</text><rect x="26" y="190" width="368" height="5" rx="2.5" fill="#21262D"/><rect x="26" y="190" width="36.38" height="5" rx="2.5" fill="#9CBBF9"/>
+<text x="26" y="215" font-size="12">Python</text><text x="394" y="215" text-anchor="end" class="label">3.6%</text><rect x="26" y="223" width="368" height="5" rx="2.5" fill="#21262D"/><rect x="26" y="223" width="13.10" height="5" rx="2.5" fill="#52B788"/>
+<text x="26" y="248" font-size="12">PLpgSQL</text><text x="394" y="248" text-anchor="end" class="label">1.9%</text><rect x="26" y="256" width="368" height="5" rx="2.5" fill="#21262D"/><rect x="26" y="256" width="7.08" height="5" rx="2.5" fill="#D7BDE2"/>
+<text x="26" y="275" class="foot">Code size across original, unarchived public repos</text>
+<path d="M26 289H394" stroke="#30363D"/>
+<text x="26" y="312" class="foot">GitHub public API · 2026-11-11 01:49 UTC</text>
+</svg>
