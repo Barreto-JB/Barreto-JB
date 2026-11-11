@@ -9,7 +9,7 @@ import pathlib
 import urllib.parse
 import urllib.request
 
-LOGIN = "Barretomen"
+LOGIN = os.environ.get("GITHUB_REPOSITORY_OWNER", "Barreto-JB")
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 
 
