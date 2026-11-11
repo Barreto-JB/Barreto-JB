@@ -7,7 +7,7 @@
   <p>Self-taught developer in Viseu, Portugal.<br />I learn by building practical tools for everyday problems.</p>
 </div>
 
-<img src="assets/divider.svg" width="100%" height="4" alt="" />
+<img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
 ## 👨‍💻 About Me
 
@@ -21,7 +21,7 @@ I started programming to simplify the work I was doing in customer support. Toda
 
 I’m interested in AI, useful integrations and tools that give people more time for the work that matters.
 
-<img src="assets/divider.svg" width="100%" height="4" alt="" />
+<img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
 ## 💻 Languages and Tools
 
@@ -54,7 +54,7 @@ Technologies used in my public projects and development workflow.
   <img src="assets/technology-tools-light.svg" width="100%" alt="React, Node.js, Electron, Vite, Git and GitHub" />
 </picture>
 
-<img src="assets/divider.svg" width="100%" height="4" alt="" />
+<img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
 ## 📊 GitHub Profile Stats
 
@@ -73,7 +73,7 @@ Technologies used in my public projects and development workflow.
 
 <sub>Cards refresh daily from GitHub’s public API. Language shares reflect code size across original, unarchived public repositories. [View the latest refresh](https://github.com/Barreto-JB/Barreto-JB/actions/workflows/profile-stats.yml).</sub>
 
-<img src="assets/divider.svg" width="100%" height="4" alt="" />
+<img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
 ## 🌱 Goals for 2027
 
@@ -89,7 +89,7 @@ Technologies used in my public projects and development workflow.
 - [ ] 📈 Reach 100+ GitHub contributions
 - [ ] ⭐ Reach 100 GitHub stars
 
-<img src="assets/divider.svg" width="100%" height="4" alt="" />
+<img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
 <h2 align="center">🤝 Connect with Me</h2>
 
@@ -100,7 +100,7 @@ Technologies used in my public projects and development workflow.
   <a href="mailto:imjoaobarreto@gmail.com"><img src="assets/social/email.svg" width="100" height="34" alt="Email" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" height="4" alt="" />
+<img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
 <p align="center">
   <picture>
@@ -110,6 +110,6 @@ Technologies used in my public projects and development workflow.
   </picture>
 </p>
 
-<img src="assets/divider.svg" width="100%" height="4" alt="" />
+<img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
 <p align="center"><sub>Learning, building and sharing along the way.<br />João Barreto</sub></p>
