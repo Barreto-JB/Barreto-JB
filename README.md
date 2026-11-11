@@ -7,7 +7,7 @@
   <p>Self-taught developer in Viseu, Portugal.<br />I learn by building practical tools for everyday problems.</p>
 </div>
 
-<img src="assets/divider.svg" width="100%" height="3" alt="" />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 👨‍💻 About Me
 
@@ -21,7 +21,7 @@ I started programming to simplify the work I was doing in customer support. Toda
 
 I’m interested in AI, useful integrations and tools that give people more time for the work that matters.
 
-<img src="assets/divider.svg" width="100%" height="3" alt="" />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 💻 Languages and Tools
 
@@ -29,45 +29,32 @@ Technologies used in my public projects and development workflow.
 
 ### 👨‍💻 Programming & Markup Languages
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%"><img src="assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/python.svg" width="40" height="40" alt="Python" /><br /><sub>Python</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="assets/icons/html5.svg" width="40" height="40" alt="HTML5" /><br /><sub>HTML5</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/css3.svg" width="40" height="40" alt="CSS3" /><br /><sub>CSS3</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/postgresql.svg" width="40" height="40" alt="SQL" /><br /><sub>SQL</sub></td>
-  </tr>
-</table>
+<picture>
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/technology-languages-dark-mobile.svg" />
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/technology-languages-light-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/technology-languages-dark.svg" />
+  <img src="assets/technology-languages-light.svg" width="100%" alt="JavaScript, TypeScript, Python, HTML5, CSS3 and SQL" />
+</picture>
 
 ### 🗄️ Databases & Cloud Hosting
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%"><img src="assets/icons/supabase.svg" width="40" height="40" alt="Supabase" /><br /><sub>Supabase</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/postgresql.svg" width="40" height="40" alt="PostgreSQL" /><br /><sub>PostgreSQL</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/github.svg" width="40" height="40" alt="GitHub Pages" /><br /><sub>GitHub Pages</sub></td>
-  </tr>
-</table>
+<picture>
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/technology-databases-dark-mobile.svg" />
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/technology-databases-light-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/technology-databases-dark.svg" />
+  <img src="assets/technology-databases-light.svg" width="100%" alt="Supabase, PostgreSQL and GitHub Pages" />
+</picture>
 
 ### 🛠️ Software & Tools
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%"><img src="assets/icons/react.svg" width="40" height="40" alt="React" /><br /><sub>React</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/nodejs.svg" width="40" height="40" alt="Node.js" /><br /><sub>Node.js</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/electron.svg" width="40" height="40" alt="Electron" /><br /><sub>Electron</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="33%"><img src="assets/icons/vitejs.svg" width="40" height="40" alt="Vite" /><br /><sub>Vite</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/git.svg" width="40" height="40" alt="Git" /><br /><sub>Git</sub></td>
-    <td align="center" width="33%"><img src="assets/icons/github.svg" width="40" height="40" alt="GitHub" /><br /><sub>GitHub</sub></td>
-  </tr>
-</table>
+<picture>
+  <source media="(max-width: 900px) and (prefers-color-scheme: dark)" srcset="assets/technology-tools-dark-mobile.svg" />
+  <source media="(max-width: 900px) and (prefers-color-scheme: light)" srcset="assets/technology-tools-light-mobile.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/technology-tools-dark.svg" />
+  <img src="assets/technology-tools-light.svg" width="100%" alt="React, Node.js, Electron, Vite, Git and GitHub" />
+</picture>
 
-<img src="assets/divider.svg" width="100%" height="3" alt="" />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 📊 GitHub Profile Stats
 
@@ -86,7 +73,7 @@ Technologies used in my public projects and development workflow.
 
 <sub>Cards refresh daily from GitHub’s public API. Language shares reflect code size across original, unarchived public repositories. [View the latest refresh](https://github.com/Barreto-JB/Barreto-JB/actions/workflows/profile-stats.yml).</sub>
 
-<img src="assets/divider.svg" width="100%" height="3" alt="" />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 🌱 Goals for 2027
 
@@ -102,7 +89,7 @@ Technologies used in my public projects and development workflow.
 - [ ] 📈 Reach 100+ GitHub contributions
 - [ ] ⭐ Reach 100 GitHub stars
 
-<img src="assets/divider.svg" width="100%" height="3" alt="" />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 <h2 align="center">🤝 Connect with Me</h2>
 
@@ -113,7 +100,7 @@ Technologies used in my public projects and development workflow.
   <a href="mailto:imjoaobarreto@gmail.com"><img src="assets/social/email.svg" width="100" height="34" alt="Email" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" height="3" alt="" />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 <p align="center">
   <picture>
@@ -123,6 +110,6 @@ Technologies used in my public projects and development workflow.
   </picture>
 </p>
 
-<img src="assets/divider.svg" width="100%" height="3" alt="" />
+<img src="assets/divider.svg" width="100%" height="4" alt="" />
 
 <p align="center"><sub>Learning, building and sharing along the way.<br />João Barreto</sub></p>
