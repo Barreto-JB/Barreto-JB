@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 184" width="268" height="184">
+
+<rect x="1" y="1" width="266" height="182" rx="13" fill="#0D1117" stroke="#00C9BA" stroke-opacity=".65" stroke-width="2"/>
+<rect x="16" y="13" width="36" height="36" rx="8" fill="#103D2B"/>
+<path transform="translate(22 19) scale(0.75)" d="M4 4h8v8H4z M20 20h8v8h-8z M12 8h12v12 M21 17l3 3 3-3" fill="none" stroke="#00C9BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M240 28h12m-5-5 5 5-5 5" stroke="#00C9BA" stroke-width="1.6" fill="none"/>
+<text x="17" y="66" font-family="system-ui, Segoe UI, sans-serif" font-weight="700" font-size="18" fill="#00C9BA">Workflow Automation</text>
+<text x="17" y="82" font-family="system-ui, Segoe UI, sans-serif" font-size="14" fill="#F9E5C4">A browser extension that</text>
+<text x="17" y="99" font-family="system-ui, Segoe UI, sans-serif" font-size="14" fill="#F9E5C4">captures information and fills</text>
+<text x="17" y="116" font-family="system-ui, Segoe UI, sans-serif" font-size="14" fill="#F9E5C4">repetitive workflows.</text>
+<path d="M17 169h40" stroke="#00C9BA" stroke-width="2" stroke-linecap="round"/>
+
+</svg>

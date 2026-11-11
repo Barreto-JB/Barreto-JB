@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 106" width="900" height="106">
+
+<rect x="1" y="1" width="898" height="104" rx="15" fill="#0D1117" stroke="#00C9BA" stroke-opacity=".55" stroke-width="2"/>
+<rect x="24" y="21" width="64" height="64" rx="12" fill="#103D2B"/>
+<path transform="translate(36 33) scale(1.25)" d="M5 4v24h23 M10 22v-6 M17 22V9 M24 22V5" fill="none" stroke="#00C9BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="114" y="65" font-family="system-ui, Segoe UI, sans-serif" font-weight="700" font-size="49" fill="#F9E5C4">GitHub Profile Stats</text>
+<path d="M114 82h120m8 0h18" stroke="#00C9BA" stroke-width="3" stroke-linecap="round"/>
+<path d="M820 24h47v58h-47" fill="none" stroke="#F9E5C4" stroke-opacity=".25"/>
+<text x="843" y="64" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="28" font-weight="700" fill="#F9E5C4">JB</text>
+<circle cx="867" cy="24" r="4" fill="#FFAD16"/>
+
+</svg>

@@ -9,21 +9,23 @@
 
 <img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
-## 👨‍💻 About Me
+<h2><img src="assets/jb-banner-about.svg" width="100%" alt="About Me" /></h2>
 
 I started programming to simplify the work I was doing in customer support. Today, I work mainly with JavaScript, Node.js and Electron, and keep learning through real projects.
 
-### What I’m building
+<h3><img src="assets/jb-banner-building.svg" width="100%" alt="What I&#x27;m Building" /></h3>
 
-- **[Workflow automation](https://github.com/Barreto-JB/slack-8x8-autofill)** — A browser extension that captures information and fills repetitive workflows.
-- **[Barreto English Journey](https://github.com/Barreto-JB/barreto-english-journey)** — A progressive English study platform built with React, TypeScript and Supabase.
-- **[Registo Cais](https://github.com/Barreto-JB/registo-cais)** — A web application for logging entries and exits, with export and offline support.
+<p align="center">
+  <a href="https://github.com/Barreto-JB/slack-8x8-autofill"><img src="assets/jb-project-automation.svg" width="268" alt="Workflow Automation. A browser extension that captures information and fills repetitive workflows." /></a>
+  <a href="https://github.com/Barreto-JB/barreto-english-journey"><img src="assets/jb-project-english.svg" width="268" alt="Barreto English Journey. A progressive English study platform built with React, TypeScript and Supabase." /></a>
+  <a href="https://github.com/Barreto-JB/registo-cais"><img src="assets/jb-project-cais.svg" width="268" alt="Registo Cais. A web application for logging entries and exits, with export and offline support." /></a>
+</p>
 
 I’m interested in AI, useful integrations and tools that give people more time for the work that matters.
 
 <img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
-## 💻 Languages and Tools
+<h2><img src="assets/jb-banner-languages.svg" width="100%" alt="Languages and Tools" /></h2>
 
 Technologies used in my public projects and development workflow.
 
@@ -56,7 +58,7 @@ Technologies used in my public projects and development workflow.
 
 <img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
-## 📊 GitHub Profile Stats
+<h2><img src="assets/jb-banner-stats.svg" width="100%" alt="GitHub Profile Stats" /></h2>
 
 <p align="center">
   <picture>
@@ -75,7 +77,7 @@ Technologies used in my public projects and development workflow.
 
 <img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
-## 🌱 Goals for 2027
+<h2><img src="assets/jb-banner-goals.svg" width="100%" alt="Goals for 2027" /></h2>
 
 - [ ] 🎓 Start my Computer Engineering degree
 - [ ] 🧠 Master Data Structures & Algorithms
@@ -91,7 +93,7 @@ Technologies used in my public projects and development workflow.
 
 <img src="assets/divider-jb.svg" width="100%" height="4" alt="" />
 
-<h2 align="center">🤝 Connect with Me</h2>
+<h2><img src="assets/jb-banner-connect.svg" width="100%" alt="Connect with Me" /></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barretomendes/"><img src="assets/social/linkedin.svg" width="116" height="34" alt="LinkedIn" /></a>
