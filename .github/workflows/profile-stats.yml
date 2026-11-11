@@ -1,4 +1,4 @@
-name: Refresh public profile statistics
+name: Refresh profile statistics and contribution snake
 
 on:
   workflow_dispatch:
@@ -14,27 +14,46 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-stats
+  group: profile-generated-assets
   cancel-in-progress: false
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: '3.12'
-      - name: Read public GitHub statistics
+      - name: Generate public statistics cards
         env:
           GH_TOKEN: ${{ github.token }}
+          PROFILE_ASSET_DIR: dist
         run: python scripts/update_stats.py
-      - name: Save updated card
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ github.token }}
+          outputs: |
+            dist/github-contribution-snake-dark.svg?palette=github-dark&color_snake=#56C7F3&color_dots=#161B22,#0E4944,#10776C,#12A996,#17D6C5
+            dist/github-contribution-snake.svg?palette=github-light&color_snake=#087F78&color_dots=#EBEDF0,#D4F3EB,#8CDCCB,#33BFA6,#087F78
+      - name: Publish generated assets
+        shell: bash
         run: |
+          remote_ref=$(git ls-remote --heads origin refs/heads/output)
+          if [ -n "$remote_ref" ]; then
+            git fetch --depth=1 origin output
+            git switch -c output FETCH_HEAD
+          else
+            git switch --orphan output
+          fi
+          cp dist/*.svg dist/*.json .
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/github-stats.svg assets/github-stats.json
+          git add github-stats.svg github-stats-light.svg top-languages.svg top-languages-light.svg github-stats.json github-contribution-snake.svg github-contribution-snake-dark.svg
           if ! git diff --cached --quiet; then
-            git commit -m 'Update public profile statistics'
-            git push
+            git commit -m 'Refresh public profile cards and contribution snake'
+            git push origin HEAD:output
           fi

@@ -1,11 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="232" viewBox="0 0 800 232" role="img" aria-labelledby="title description">
-<title id="title">Estatísticas públicas de Barretomen</title>
-<desc id="description">16 repositórios públicos, 0 estrelas em repositórios próprios e 1 seguidores. Atualizado em 2026-11-10. Dados da API do GitHub.</desc>
-<style>text{font-family:Arial,Helvetica,sans-serif}.number{font-size:34px;font-weight:600;fill:#efefef}.label{font-size:14px;fill:#bbb}</style>
-<rect x=".5" y=".5" width="799" height="231" rx="8" fill="#202020" stroke="#444"/>
-<text x="30" y="34" class="label">ATIVIDADE PÚBLICA NO GITHUB</text>
-<text x="30" y="98" class="number">16</text><text x="30" y="124" class="label">Repositórios públicos</text><text x="290" y="98" class="number">0</text><text x="290" y="124" class="label">Estrelas recebidas</text><text x="550" y="98" class="number">1</text><text x="550" y="124" class="label">Seguidores</text>
-<path d="M30 148H770" stroke="#444"/>
-<text x="30" y="174" class="label">Linguagem principal por repositório: HTML: 8 · TypeScript: 2 · CSS: 2 · JavaScript: 2 · Python: 1</text>
-<text x="30" y="208" font-size="12" fill="#999">Fonte: GitHub API · Atualizado em 2026-11-10 UTC · Repositórios privados não incluídos</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="330" viewBox="0 0 420 330" role="img" aria-labelledby="title description">
+<title id="title">João’s GitHub activity</title>
+<desc id="description">Public repositories: 17, Stars earned: 0, Repository forks: 0, Followers: 1</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#F0F6FC}.heading{font-size:19px;font-weight:600;fill:#17D6C5}.label{font-size:13px;fill:#8B949E}.value{font-size:32px;font-weight:600}.foot{font-size:10px;fill:#8B949E}</style>
+<rect x=".5" y=".5" width="419" height="329" rx="10" fill="#0D1117" stroke="#30363D"/>
+<text x="26" y="37" class="heading">João’s GitHub activity</text>
+<path d="M26 56H394" stroke="#30363D"/>
+<text x="26" y="112" class="value">17</text><text x="26" y="136" class="label">Public repositories</text>
+<text x="220" y="112" class="value">0</text><text x="220" y="136" class="label">Stars earned</text>
+<text x="26" y="199" class="value">0</text><text x="26" y="223" class="label">Repository forks</text>
+<text x="220" y="199" class="value">1</text><text x="220" y="223" class="label">Followers</text>
+<circle cx="30" cy="267" r="3" fill="#17D6C5"/>
+<text x="42" y="271" class="label">Last public push · 2026-11-10</text>
+<path d="M26 289H394" stroke="#30363D"/>
+<text x="26" y="312" class="foot">GitHub public API · 2026-11-11 01:44 UTC</text>
 </svg>
