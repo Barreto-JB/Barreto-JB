@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/JB-monkey-avatar.png" width="180" height="180" alt="JB monkey wearing a turquoise bucket hat and gold sunglasses, holding an orange JB mug" />
+  <img src="assets/JB-monkey-coffee-15x.gif" width="180" height="180" alt="JB monkey wearing a turquoise bucket hat and gold sunglasses, holding an orange JB mug" />
 
   <h1>Hi there, I’m João Barreto 👋</h1>
 
